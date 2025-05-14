@@ -6,5 +6,5 @@ metadata:
     app: prod
 spec:
   containers:
-  -name: abc-con
-   image: abc_tech:5
+    - name: abc-con
+      image: abc_tech:5
